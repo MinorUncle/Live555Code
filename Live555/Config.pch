@@ -1,0 +1,44 @@
+//
+//  Config.pch
+//  Live555Code
+//
+//  Created by tongguan on 16/9/12.
+//  Copyright © 2016年 MinorUncle. All rights reserved.
+//
+
+#ifndef Config_h
+#define Config_h
+
+#define BSD 1
+#define SOCKLEN_T                   socklen_t
+#define HAVE_SOCKADDR_LEN           1
+//#define _LARGEFILE                  SOURCE=1
+//#define _FILE_OFFSET_BITS           64
+#define TIME_BASE           int
+
+
+
+//DEVELOPER_PATH =  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer
+//TOOL_PATH = $(DEVELOPER_PATH)/usr/bin
+//SDK_PATH = $(DEVELOPER_PATH)/SDKs
+//SDK = $(SDK_PATH)/iPhoneOS$(IOS_VERSION).sdk
+//COMPILE_OPTS =          $(INCLUDES) -I. $(EXTRA_LDFLAGS) -DBSD=1 -O2 -DSOCKLEN_T=socklen_t -DHAVE_SOCKADDR_LEN=1 -D_LARGEFILE_SOURCE=1 -D_FILE_OFFSET_BITS=64 -fPIC -arch armv7 --sysroot=$(SDK)
+//C =                     c
+//C_COMPILER =            /usr/bin/xcrun clang
+//C_FLAGS =               $(COMPILE_OPTS)
+//CPP =                   cpp
+//CPLUSPLUS_COMPILER =    /usr/bin/xcrun clang
+//CPLUSPLUS_FLAGS =       $(COMPILE_OPTS) -Wall
+//OBJ =                   o
+//LINK =                  /usr/bin/xcrun clang -o
+//LINK_OPTS =             -v -L. -arch armv7 --sysroot=$(SDK) -L$(SDK)/usr/lib/system /usr/lib/libc++.dylib
+//CONSOLE_LINK_OPTS =     $(LINK_OPTS)
+//LIBRARY_LINK =          /usr/bin/xcrun libtool -static -o
+//LIBRARY_LINK_OPTS =
+//LIB_SUFFIX =            a
+//LIBS_FOR_CONSOLE_APPLICATION =
+//LIBS_FOR_GUI_APPLICATION =
+//EXE =
+
+
+#endif /* Config_h */
