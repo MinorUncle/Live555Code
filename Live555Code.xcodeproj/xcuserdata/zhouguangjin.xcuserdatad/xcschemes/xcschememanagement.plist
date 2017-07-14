@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Live555.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Live555Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>mediaServer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>proxyServer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>testProgs.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C59FF8401DD1CE13008E9D0C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C59FF84E1DD1CE9E008E9D0C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C59FF8591DD1CEB2008E9D0C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C59FF8641DD1CEC3008E9D0C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C59FFB0E1DD1CFD4008E9D0C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

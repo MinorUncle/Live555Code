@@ -43,7 +43,7 @@ protected:
   virtual ~BasicUsageEnvironment();
 };
 
-
+//任务调度
 class BasicTaskScheduler: public BasicTaskScheduler0 {
 public:
   static BasicTaskScheduler* createNew(unsigned maxSchedulerGranularity = 10000/*microseconds*/);

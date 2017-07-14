@@ -8,7 +8,7 @@
 
 #ifndef Config_h
 #define Config_h
-
+#define SO_REUSEPORT 1
 #define BSD 1
 #define SOCKLEN_T                   socklen_t
 #define HAVE_SOCKADDR_LEN           1

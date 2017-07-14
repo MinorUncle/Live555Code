@@ -2267,7 +2267,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				EXECUTABLE_PREFIX = lib;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/Live555/Config.pch";
+				GCC_PREFIX_HEADER = "";
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Live555Code/Live555/liveMedia/include\"";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -2280,7 +2280,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				EXECUTABLE_PREFIX = lib;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/Live555/Config.pch";
+				GCC_PREFIX_HEADER = "";
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Live555Code/Live555/liveMedia/include\"";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -2305,6 +2305,7 @@
 				C59FF84A1DD1CE13008E9D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C59FF8531DD1CE9E008E9D0C /* Build configuration list for PBXNativeTarget "mediaServer" */ = {
 			isa = XCConfigurationList;
@@ -2313,6 +2314,7 @@
 				C59FF8551DD1CE9E008E9D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C59FF85E1DD1CEB2008E9D0C /* Build configuration list for PBXNativeTarget "proxyServer" */ = {
 			isa = XCConfigurationList;
@@ -2321,6 +2323,7 @@
 				C59FF8601DD1CEB2008E9D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C59FF8691DD1CEC3008E9D0C /* Build configuration list for PBXNativeTarget "testProgs" */ = {
 			isa = XCConfigurationList;
@@ -2329,6 +2332,7 @@
 				C59FF86B1DD1CEC3008E9D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C59FFB151DD1CFD4008E9D0C /* Build configuration list for PBXNativeTarget "Live555" */ = {
 			isa = XCConfigurationList;
@@ -2337,6 +2341,7 @@
 				C59FFB171DD1CFD4008E9D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
